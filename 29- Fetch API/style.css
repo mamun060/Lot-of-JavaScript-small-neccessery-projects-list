@@ -1,0 +1,10 @@
+.style {
+    display: flex;
+    justify-content: space-between;
+  }
+  h2{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
